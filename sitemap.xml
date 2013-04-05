@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://fstop.github.com/blog/2013/04/02/bad-ace/</loc>
-        <lastmod>2013-04-04T16:36:57-07:00</lastmod>
+        <loc>http://FStop.github.com/blog/2013/04/02/bad-ace/</loc>
+        <lastmod>2013-04-04T20:44:51-07:00</lastmod>
     </url>
     <url>
-        <loc>http://fstop.github.com/blog/archives/</loc>
-        <lastmod>2013-04-04T16:36:57-07:00</lastmod>
+        <loc>http://FStop.github.com/blog/archives/</loc>
+        <lastmod>2013-04-04T20:44:51-07:00</lastmod>
     </url>
     <url>
-        <loc>http://fstop.github.com/</loc>
-        <lastmod>2013-04-04T16:36:57-07:00</lastmod>
+        <loc>http://FStop.github.com/</loc>
+        <lastmod>2013-04-04T20:44:51-07:00</lastmod>
     </url>
     <url>
-        <loc>http://fstop.github.com/robots.txt</loc>
+        <loc>http://FStop.github.com/robots.txt</loc>
         <lastmod>2013-04-02T11:14:10-07:00</lastmod>
     </url>
 </urlset>
