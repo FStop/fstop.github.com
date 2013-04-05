@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://FStop.github.com/atom.xml" rel="self"/>
-  <link href="http://FStop.github.com/"/>
-  <updated>2013-04-04T16:36:57-07:00</updated>
-  <id>http://FStop.github.com/</id>
+  <title><![CDATA[F-Stop's Octopress Experience]]></title>
+  <link href="http://fstop.github.com/atom.xml" rel="self"/>
+  <link href="http://fstop.github.com/"/>
+  <updated>2013-04-04T20:27:16-07:00</updated>
+  <id>http://fstop.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Bad Ace]]></title>
-    <link href="http://FStop.github.com/blog/2013/04/02/bad-ace/"/>
+    <link href="http://fstop.github.com/blog/2013/04/02/bad-ace/"/>
     <updated>2013-04-02T11:16:00-07:00</updated>
-    <id>http://FStop.github.com/blog/2013/04/02/bad-ace</id>
+    <id>http://fstop.github.com/blog/2013/04/02/bad-ace</id>
     <content type="html"><![CDATA[<h3>Wow, does this acutally work?</h3>
 ]]></content>
   </entry>
