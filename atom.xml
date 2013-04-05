@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[F-Stop's Octopress Github Pages Experience]]></title>
-  <link href="http://FStop.github.com/atom.xml" rel="self"/>
-  <link href="http://FStop.github.com/"/>
-  <updated>2013-04-04T20:44:52-07:00</updated>
-  <id>http://FStop.github.com/</id>
+  <title><![CDATA[F-Stop's Octopress Experience]]></title>
+  <link href="http://fstop.github.com/atom.xml" rel="self"/>
+  <link href="http://fstop.github.com/"/>
+  <updated>2013-04-04T20:46:26-07:00</updated>
+  <id>http://fstop.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
@@ -15,16 +15,16 @@
   
   <entry>
     <title type="html"><![CDATA[This is a post. This is only a post.]]></title>
-    <link href="http://FStop.github.com/blog/2013/04/02/bad-ace/"/>
+    <link href="http://fstop.github.com/blog/2013/04/02/bad-ace/"/>
     <updated>2013-04-02T11:16:00-07:00</updated>
-    <id>http://FStop.github.com/blog/2013/04/02/bad-ace</id>
+    <id>http://fstop.github.com/blog/2013/04/02/bad-ace</id>
     <content type="html"><![CDATA[<h3>Wow, does this actually work?</h3>
 
 <p>So, it turns out that writing a blog post in markdown is actually kind of nice. I enjoy the simplicity of it. And the FoldingText app makes it even nicer. I feel I am about as close to a typewriter as I can get while working on a $3000+ shiny metal laptop.</p>
 
 <p>Figuring out the templating process is a bit daunting, and I find myself wondering if I should be devoting time to yet another new thing, while my &#8220;real&#8221; website, <a href="http://fstopdesign.com">fstopdesign.com</a> languishes in its perpetually half finished state like the house of a contractor.</p>
 
-<p>The designer in me badly wants to tweak the design of this custom template, but that&#8217;s where I stop short because I know I could spend days figuring out this system, and is it worth it?</p>
+<p>The designer in me badly wants to tweak and customize the design of this default template, but that&#8217;s where I stop short because I know I could spend days figuring out this system, and is it worth it?</p>
 
 <p>I have finally gotten to a pretty fluent state with my WordPress theming and developing knowledge, so why would I want to go off and start over with something that&#8217;s totally new, and rather difficult to learn?</p>
 
