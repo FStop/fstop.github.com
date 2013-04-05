@@ -4,7 +4,7 @@
   <title><![CDATA[F-Stop's Octopress Experience]]></title>
   <link href="http://fstop.github.com/atom.xml" rel="self"/>
   <link href="http://fstop.github.com/"/>
-  <updated>2013-04-04T20:58:23-07:00</updated>
+  <updated>2013-04-04T21:26:11-07:00</updated>
   <id>http://fstop.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[And another thing]]></title>
+    <link href="http://fstop.github.com/blog/2013/04/04/"/>
+    <updated>2013-04-04T21:14:00-07:00</updated>
+    <id>http://fstop.github.com/blog/2013/04/</id>
+    <content type="html"><![CDATA[<h3>Down with perfectionism</h3>
+
+<p>I closed my laptop as I usually do this time of night, but instead of the usual feelings of mild anxiety from &#8220;wasting&#8221; another hour browsing reddit, I felt good. I felt good even though I didn&#8217;t work only my website, even though I didn&#8217;t work on a project.</p>
+
+<p>I thought about it and realized it was because I was doing something for the sake of doing it, and letting go of the need for it to be and look perfect.</p>
+
+<p>My site is perpetually not finished because I want it to be perfect. But it&#8217;s hard to make it perfect, so I put it off.</p>
+
+<p>But this thing I&#8217;m doing right here is simple. I like it. Unfortunately I am no longer a single young man with all the time in the world. So KP (kitchen patrol) and bed beckon&#8230;</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[This is a post. This is only a post.]]></title>
