@@ -9,7 +9,7 @@
   <meta name="author" content="Your Name">
 
   
-  <meta name="description" content="Down with perfectionism I closed my laptop as I usually do this time of night, but instead of the usual feelings of mild anxiety from &#8220;wasting &hellip;">
+  <meta name="description" content="Wherein I write something very short before bed So I was listening to the Shop Talk Show, as I frequently do while doing dishes late at night. I &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -65,6 +65,65 @@
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2013/04/30/keep-the-ball-bouncing/">Keep the Ball Bouncing</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-04-30T00:00:00-07:00" pubdate data-updated="true">Apr 30<span>th</span>, 2013</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><h2>Wherein I write something <del>very</del> short before bed</h2>
+
+<p>So I was listening to the <a href="http://shotalkshow.com">Shop Talk Show</a>, as I frequently do while doing dishes late at night. I really depend on web dev podcasts to get me through the daily monotony of dishes, which there are a lot of in our house, because we prepare most of our meals at home. But I digress&#8230;</p>
+
+<p>So I was listening to Shop Talk Show, and, as usual, got a nice little nugget of information about something that I use on pretty much every site: <a href="http://modernizr.com">modernizr</a>.</p>
+
+<p>Modernizr has become so common, and is baked into my preferred WordPress starter theme, <a href="https://github.com/eddiemachado/bones">Bones</a>. But Chris &amp; Dave made a great point: modernizr does lots of &#8220;stuff&#8221; in the background, testing to see if the browser supports dozens and dozens of features. It can be up to ~40k (uncompressed), but beyond that it is injecting and removing things from the page and doing all sorts of other things in the milliseconds before the page is rendered.</p>
+
+<p>They cautioned that it&#8217;s not always necessary to use it, and pointed out that you can build your own version of modernizr that tests only for the things you want it to. In fact the download page pretty much forces you to do this.</p>
+
+<p>It got me thinking. How often do I actually use modernizr? So far I have only used it for the CSS classes it spits out on the <code>&lt;html&gt;</code> element, which indicate whether or not a crappy old browser supports something, allowing for fallbacks to be used in the CSS. For example:</p>
+
+<pre><code>    .thing{
+        color: #fff;
+        text-shadow: 1px 1px 1px rgba(0,0,0,.4);
+     }
+     .no-borderradius{
+         color: #373737;
+     }
+</code></pre>
+
+<p>And when I think about it, I rarely use modernizr. Usually only once or twice per project, sometimes not at all. Yet I haven&#8217;t really thought about not using it, or perhaps building my own stripped down version at the end of the project, only including the feature tests I need.</p>
+
+<p>I&#8217;ll definitely be thinking about this going forward, though. How about you?</p>
+</div>
+  
+  
+
+
+    </article>
   
   
     <article>
@@ -175,6 +234,10 @@
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/blog/2013/04/30/keep-the-ball-bouncing/">Keep The Ball Bouncing</a>
+      </li>
+    
+      <li class="post">
         <a href="/blog/2013/04/04/">And another thing</a>
       </li>
     
@@ -183,35 +246,6 @@
       </li>
     
   </ul>
-</section>
-
-<section>
-  <h1>GitHub Repos</h1>
-  <ul id="gh_repos">
-    <li class="loading">Status updating&#8230;</li>
-  </ul>
-  
-  <a href="https://github.com/FStop">@FStop</a> on GitHub
-  
-  <script type="text/javascript">
-    $(document).ready(function(){
-        if (!window.jXHR){
-            var jxhr = document.createElement('script');
-            jxhr.type = 'text/javascript';
-            jxhr.src = '/javascripts/libs/jXHR.js';
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(jxhr, s);
-        }
-
-        github.showRepos({
-            user: 'FStop',
-            count: 0,
-            skip_forks: true,
-            target: '#gh_repos'
-        });
-    });
-  </script>
-  <script src="/javascripts/github.js" type="text/javascript"> </script>
 </section>
 
 
