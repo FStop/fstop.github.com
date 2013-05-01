@@ -4,7 +4,7 @@
   <title><![CDATA[F-Stop's Octopress Experience]]></title>
   <link href="http://fstop.github.com/atom.xml" rel="self"/>
   <link href="http://fstop.github.com/"/>
-  <updated>2013-04-30T23:10:22-07:00</updated>
+  <updated>2013-04-30T23:12:23-07:00</updated>
   <id>http://fstop.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -20,9 +20,9 @@
     <id>http://fstop.github.com/blog/2013/04/30/keep-the-ball-bouncing</id>
     <content type="html"><![CDATA[<h2>Wherein I write something <del>very</del> short before bed</h2>
 
-<p>So I was listening to the <a href="http://shotalkshow.com">Shop Talk Show</a>, as I frequently do while doing dishes late at night. I really depend on web dev podcasts to get me through the daily monotony of dishes, which there are a lot of in our house, because we prepare most of our meals at home. But I digress&#8230;</p>
+<p>So I was listening to the <a href="http://shoptalkshow.com">Shop Talk Show</a>, as I frequently do while doing dishes late at night. I really depend on web dev podcasts to get me through the daily monotony of dishes, which there are a lot of in our house, because we prepare most of our meals at home. But I digress&#8230;</p>
 
-<p>So I was listening to Shop Talk Show, and, as usual, got a nice little nugget of information about something that I use on pretty much every site: <a href="http://modernizr.com">modernizr</a>.</p>
+<p>So I was listening to Shop Talk Show, and, as usual, got a <a href="http://shoptalkshow.com/episodes/066-rapidfire-16/?t=22:41">nice little nugget of information</a> about something that I use on pretty much every site: <a href="http://modernizr.com">modernizr</a>.</p>
 
 <p>Modernizr has become so common, and is baked into my preferred WordPress starter theme, <a href="https://github.com/eddiemachado/bones">Bones</a>. But Chris &amp; Dave made a great point: modernizr does lots of &#8220;stuff&#8221; in the background, testing to see if the browser supports dozens and dozens of features. It can be up to ~40k (uncompressed), but beyond that it is injecting and removing things from the page and doing all sorts of other things in the milliseconds before the page is rendered.</p>
 
