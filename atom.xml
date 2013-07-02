@@ -1,17 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[F-Stop's Octopress Experience]]></title>
+  <title><![CDATA[F-Stop's Static Site Experience]]></title>
   <link href="http://fstop.github.com/atom.xml" rel="self"/>
   <link href="http://fstop.github.com/"/>
-  <updated>2013-05-14T21:28:52-07:00</updated>
+  <updated>2013-07-02T14:43:32-07:00</updated>
   <id>http://fstop.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Gabriel Luethje]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Again!]]></title>
+    <link href="http://fstop.github.com/blog/2013/07/02/again/"/>
+    <updated>2013-07-02T14:28:00-07:00</updated>
+    <id>http://fstop.github.com/blog/2013/07/02/again</id>
+    <content type="html"><![CDATA[<p>Trying this Octopress thing again&#8230;</p>
+
+<p>I guess I&#8217;m continually drawn to static site generators. I recently listened to <a href="http://5by5.tv/webahead/54">The Web Ahead podcast</a>, and the topic was Jekyll. And, of course, I was intrigued at the thought of a system that can manage content similar to a familiar CMS (like WordPress in my case), with loops and includes and templates, but whose end product is static HTML, CSS and JavaScript files.</p>
+
+<p>The thought of not relying on a database and a server running thousands of lines of PHP code to pull everything together as it is requested is very appealing.</p>
+
+<p>The part I&#8217;m not sure about is whether to look into Jekyll, or to keep on with Octopress. Octopress seems like a head start, but so far I have found myself not liking it in the same way that I don;t like starting a WordPress site with an overly developed theme.</p>
+
+<p>I really hate spending any amount of time deconstructing and re-engineering a template to suit my needs. For now, I have Octopress set up here, so I&#8217;ll continue checking it out and see if I can&#8217;t find a more &#8220;blank&#8221; starting point&#8230;</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Keep the Ball Bouncing]]></title>
